@@ -1,0 +1,55 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.logo {
+    width: 86px;
+}
+footer {
+    text-align: center;
+}
+.bg-ligth {
+    background-color:#28a745 !important ;
+}
+.bg-dark {
+    background-color: #FFFFFF !important ;
+}
+h5 {
+    color: #212529;
+}
+p {
+    color: #707070;
+}
+i {
+    color: #707070;
+}
+#form {
+    background-color: #28a745;
+}
+.p2 {
+ color: #FFFFFF;   
+}
+.logo2 {
+    width: 80px;
+}
+hr {
+    color: #707070;
+}
+h4 {
+    color: #28A745;
+}
+.card-img-top {
+    width: 100%;
+    height: 100%;
+}
+.texto {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.precio {
+    padding-right: 10px;
+}
+.navbar-brand {
+    margin-left: 15px;
+}
+
